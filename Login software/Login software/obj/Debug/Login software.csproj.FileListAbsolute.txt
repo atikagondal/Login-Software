@@ -1,0 +1,12 @@
+c:\Users\Atika Gondal\source\repos\Login software\Login software\bin\Debug\Login software.exe.config
+c:\Users\Atika Gondal\source\repos\Login software\Login software\bin\Debug\Login software.exe
+c:\Users\Atika Gondal\source\repos\Login software\Login software\bin\Debug\Login software.pdb
+c:\Users\Atika Gondal\source\repos\Login software\Login software\obj\Debug\Login_software.Form1.resources
+c:\Users\Atika Gondal\source\repos\Login software\Login software\obj\Debug\Login_software.Properties.Resources.resources
+c:\Users\Atika Gondal\source\repos\Login software\Login software\obj\Debug\Login software.csproj.GenerateResource.cache
+c:\Users\Atika Gondal\source\repos\Login software\Login software\obj\Debug\Login software.csproj.CoreCompileInputs.cache
+c:\Users\Atika Gondal\source\repos\Login software\Login software\obj\Debug\Login software.exe
+c:\Users\Atika Gondal\source\repos\Login software\Login software\obj\Debug\Login software.pdb
+C:\Users\Atika Gondal\source\repos\Login software\Login software\obj\Debug\Login_software.welcome.resources
+C:\Users\Atika Gondal\source\repos\Login software\Login software\obj\Debug\Login_software.Form2.resources
+C:\Users\Atika Gondal\source\repos\Login software\Login software\obj\Debug\Login software.csprojAssemblyReference.cache

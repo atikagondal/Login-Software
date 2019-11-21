@@ -1,0 +1,13 @@
+C:\Users\Atika Gondal\source\repos\Login software\Login software\bin\x86\Debug\Login software.exe.config
+C:\Users\Atika Gondal\source\repos\Login software\Login software\bin\x86\Debug\Login software.exe
+C:\Users\Atika Gondal\source\repos\Login software\Login software\bin\x86\Debug\Login software.pdb
+C:\Users\Atika Gondal\source\repos\Login software\Login software\obj\x86\Debug\Login_software.Form1.resources
+C:\Users\Atika Gondal\source\repos\Login software\Login software\obj\x86\Debug\Login_software.Form2.resources
+C:\Users\Atika Gondal\source\repos\Login software\Login software\obj\x86\Debug\Login_software.Properties.Resources.resources
+C:\Users\Atika Gondal\source\repos\Login software\Login software\obj\x86\Debug\Login_software.welcome.resources
+C:\Users\Atika Gondal\source\repos\Login software\Login software\obj\x86\Debug\Login software.csproj.GenerateResource.cache
+C:\Users\Atika Gondal\source\repos\Login software\Login software\obj\x86\Debug\Login software.csproj.CoreCompileInputs.cache
+C:\Users\Atika Gondal\source\repos\Login software\Login software\obj\x86\Debug\Login software.exe
+C:\Users\Atika Gondal\source\repos\Login software\Login software\obj\x86\Debug\Login software.pdb
+C:\Users\Atika Gondal\source\repos\Login software\Login software\obj\x86\Debug\Login software.csprojAssemblyReference.cache
+C:\Users\Atika Gondal\source\repos\Login software\Login software\bin\x86\Debug\DBSoftware1.accdb
